@@ -22,7 +22,7 @@ purpose is simply to provide an accessible implementation of the inventory
 calculation described in:
 
 *Enabling Facility-Level Methane Emissions Reporting with Continuous
-Monitoring Systems.*
+Monitoring Systems.* [doi pending]
 
 ## Running the example
 
